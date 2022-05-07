@@ -1,0 +1,18 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #FFF;
+    background: #121212;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+input[type="text"], textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit; 
+    margin: 0;
+}
